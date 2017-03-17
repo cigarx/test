@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/App.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/newContent/RegistrationForm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/newContent/newContent.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/newContent/userForm.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/newContent/userTable.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/newContent/userTables.js" charset="UTF-8" />
+  </component>
+</project>
